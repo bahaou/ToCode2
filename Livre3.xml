@@ -1,0 +1,23 @@
+<p1:livre titre="livre" xmlns:p1="http://www.masociete.com" xmlns:p2="http://www.monentreprise.com">
+<p1:auteurs>
+    <p1:auteur nom="nom" prenom="prenom"/>
+</p1:auteurs>
+<p1:sections>
+    <p1:section titre="1ére Section">
+        <p1:chapitre titre="1ére Chapitre">
+        <p1:paragraphe>Premier paragraphe</p1:paragraphe>
+        <p1:paragraphe>Deuxième paragraphe</p1:paragraphe>
+        </p1:chapitre>
+    </p1:section>
+    <p2:section titre="2éme Section">
+        <p2:chapitre titre="1ére Chapitre">
+            <p2:paragraphe>Premier paragraphe</p2:paragraphe>
+            <p2:paragraphe>Deuxième paragraphe</p2:paragraphe>
+        </p2:chapitre>
+        <p2:chapitre titre="2éme Chapitre">
+            <p2:paragraphe>Premier paragraphe</p2:paragraphe>
+            <paragraphe>Deuxième paragraphe</paragraphe>
+        </p2:chapitre>
+    </p2:section>
+</p1:sections>
+</p1:livre>

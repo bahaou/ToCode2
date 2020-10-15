@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<livre titre="livre">
+ <auteurs>
+    <auteur nom="Weslati" prenom="Baha eddine"/>
+ </auteurs>
+ <sections>
+     <section titre="1ére Section">
+        <chapitre titre="1ére Chapitre">
+             <paragraphes>
+                 <paragraphe>&lt;element id="10"&gt;&amp;gt;&lt;/element&gt;</paragraphe>
+                 <paragraphe><![CDATA[<element id="10">&gt;</element>]]></paragraphe>
+             </paragraphes>
+        </chapitre>
+        <chapitre titre="2eme Chapitre">
+            <paragraphes>
+                 <paragraphe>Premier paragraphe</paragraphe>
+                 <paragraphe>Deuxième paragraphe</paragraphe>
+            </paragraphes>
+        </chapitre>
+     </section>
+     <section titre="2éme Section">
+         <chapitre titre="1ére Chapitre">
+            <paragraphes>
+                <paragraphe>Premier paragraphe</paragraphe>
+                <paragraphe>Deuxième paragraphe</paragraphe>
+            </paragraphes>
+        </chapitre>
+        <chapitre titre="2eme Chapitre">
+            <paragraphes>
+                <paragraphe>Premier paragraphe</paragraphe>
+                <paragraphe>Deuxième paragraphe</paragraphe>
+            </paragraphes>
+        </chapitre>
+     </section>
+</sections>
+</livre>
